@@ -28,6 +28,9 @@ Programs will be added topic-wise with their source code and output.
 ### Program 5 - Assignment Operators
 - Source code: 'assignment.c'
 - Output Screenshot - 'assignment-output.png'
+### Program 6 - Increment Decrement Operators
+- Source code: 'increment-decrement.c'
+- Output Screenshot: 'increment-decrement output.png
 ## Learning Outcomes
 - Understood different data types in C.
 - Learned variable declaration and initialization.
