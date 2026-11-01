@@ -19,6 +19,9 @@ Programs will be added topic-wise with their source code and output.
 ### Program 2 - Arithmetic Operators
 - Source code: 'arithmetic.c'
 - Output Screenshot: 'arithmetic-output.png'
+### Program 3 - Relational Operators
+- Source code: 'relational.c'
+- Output Screenshot: 'relational-output.png'
 ## Learning Outcomes
 - Understood different data types in C.
 - Learned variable declaration and initialization.
