@@ -31,6 +31,9 @@ Programs will be added topic-wise with their source code and output.
 ### Program 6 - Increment Decrement Operators
 - Source code: 'increment-decrement.c'
 - Output Screenshot: 'increment-decrement output.png
+### Program 7 - Conditional Operators
+- Source code: 'conditional.c'
+- Output Screenshot: 'conditional-output.png'
 ## Learning Outcomes
 - Understood different data types in C.
 - Learned variable declaration and initialization.
