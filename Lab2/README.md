@@ -34,6 +34,9 @@ Programs will be added topic-wise with their source code and output.
 ### Program 7 - Conditional Operators
 - Source code: 'conditional.c'
 - Output Screenshot: 'conditional-output.png'
+### Program 8 - Expressions in C
+- Source code: 'expressions.c'
+- Output Screenshot: 'expressions-output.png'
 ## Learning Outcomes
 - Understood different data types in C.
 - Learned variable declaration and initialization.
