@@ -22,6 +22,9 @@ Programs will be added topic-wise with their source code and output.
 ### Program 3 - Relational Operators
 - Source code: 'relational.c'
 - Output Screenshot: 'relational-output.png'
+### Program 4 - Logical Operators
+- Source code: 'logical.c'
+- Output Screenshot: 'relational-output.png'
 ## Learning Outcomes
 - Understood different data types in C.
 - Learned variable declaration and initialization.
