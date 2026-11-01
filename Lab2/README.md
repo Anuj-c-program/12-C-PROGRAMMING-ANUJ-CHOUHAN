@@ -13,6 +13,9 @@ To understand different data types, variables and operators in C programming.
 9. Expressions in C
 ## Programs
 Programs will be added topic-wise with their source code and output.
+### Program 1 - Data Types and Variables
+- Source code: 'datatypes.c'
+- Output Screenshot: 'datatypes-output.png'
 ## Learning Outcomes
 - Understood different data types in C.
 - Learned variable declaration and initialization.
