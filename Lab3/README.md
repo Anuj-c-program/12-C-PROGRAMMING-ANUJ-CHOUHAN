@@ -11,6 +11,9 @@ To understand input/output functions, decision-making statements, looping statem
 ### Program 1 - Formatted Input and Output
 - Source code: 'input-output.c'
 - Output Screenshot: input-output.png'
+### Program 2 - If Statement
+- Source code: 'if-statement.c'
+- Output Screenshot: 'if-statement-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
