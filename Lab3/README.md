@@ -5,8 +5,12 @@ To understand input/output functions, decision-making statements, looping statem
 1. Formatted input and Output (scanf(), printf())
 2. Decision Making using if, if-else, nested if and switch
 3. Looping using for, while and do-while.
-4. Nested Loops
-5. Pattern Generation
+4. Use of break and continue.
+5. Nested Loops
+6. Pattern Generation
+### Program 1 - Formatted Input and Output
+- Source code: 'input-output.c'
+- Output Screenshot: input-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
