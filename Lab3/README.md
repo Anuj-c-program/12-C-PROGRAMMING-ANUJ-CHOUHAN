@@ -29,6 +29,9 @@ To understand input/output functions, decision-making statements, looping statem
 ### Program 7 - For Loop
 - Source code - 'for-loop.c'
 - Output Screenshot - 'for-loop-output.png'
+### Program 8 - While Loop
+- Source Code - 'while-loop.c'
+- Output Screenshot - 'while-loop-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
