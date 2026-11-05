@@ -23,6 +23,9 @@ To understand input/output functions, decision-making statements, looping statem
 ### Program 5 - Nested-If-else statement
 - Source code - 'nested-if-else.c'
 - Output Screenshot - 'nested-if-else-output.png'
+### Program 6 - Switch Statement
+- Source code - 'switch.c'
+- Output Screenshot - 'switch-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
