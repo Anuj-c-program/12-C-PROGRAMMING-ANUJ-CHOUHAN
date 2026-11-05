@@ -26,6 +26,9 @@ To understand input/output functions, decision-making statements, looping statem
 ### Program 6 - Switch Statement
 - Source code - 'switch.c'
 - Output Screenshot - 'switch-output.png'
+### Program 7 - For Loop
+- Source code - 'for-loop.c'
+- Output Screenshot - 'for-loop-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
