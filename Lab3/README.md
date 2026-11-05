@@ -47,6 +47,9 @@ To understand input/output functions, decision-making statements, looping statem
 ### Program 13 - break statement
 - Source code - 'break.c'
 - Output Screenshot - 'break-output.png'
+### program 14 - continue statement
+- Source code - 'continue.c'
+- Output Screenshot - 'continue-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
