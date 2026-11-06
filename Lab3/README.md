@@ -67,17 +67,34 @@ To understand input/output functions, decision-making statements, looping statem
 - Source code - 'Pattern-Generation/alphabet-pattern.c'
 - Output Screenshot - 'Pattern-Generation/alphabet-pattern-output.png'
 ## Practice Programs
-1. Largest of Three Numbers
-2. Even/odd checker
-3. Leap year Checker
-4. Prime Number
-5. Armstrong Number
-6. Palindrome Number
-7. Perfect Number
-8. Factorial
-9. Fibonacci Series
-10. Multiplication Tables
-11. Number and Star Patterns
+This section contains basic C programming practice programs with their source code and output screenshot.
+### 1.Largest of Three Numbers
+- Source code - 'Practice-Programs/largest-of-three.c'
+- Output Screenshot - 'Practice-Programs/largest-of-three-output.png'
+### 2.Even/Odd Checker
+- Source code - 'Practice-Programs/even-odd.c'
+- Output Screenshot - 'Practice-Programs/even-odd-output.png'
+### 3.Leap Year Checker
+- Source code - 'Practice-Programs/leap-year.c'
+- Output Screenshot - 'Practice Programs/leap-year-output.png'
+### 4.Prime Number
+- Source code - 'Practice-Programs/prime-number.c'
+- Output Screenshot - 'Practice-Programs/prime-number-output.png'
+### 5.Armstrong Number
+- Source code - 'Practice-Programs/armstrong-number.c'
+- Output Screenshot - 'Practice-Programs/armstrong-number-output.png'
+### 6.Palindrome Number
+- Source code - 'Practice-Programs/palindrome-number.c'
+- Output Screenshot - 'Practice-Programs/palindrome-number-output.png'
+### 7.Perfect Number
+- Source code - 'Practice-Programs/perfect-number.c'
+- Output Screenshot - 'Practice-Programs/perfect-number-output.png'
+### 8.Factorial
+- Source code - 'Practice-Programs/factorial.c'
+- Output Screenshot - 'Practice-Programs/factorial-output.png'
+### 9.Fibonacci Series
+- Source code - 'Practice-Programs/fibonacci-series.c'
+- Output Screenshot - 'Practice-Programs/fibonacci-series-output.png'
 ## Application Programs
 1. Menu-driven ATM Simulator
 2. Student Result Processing System
