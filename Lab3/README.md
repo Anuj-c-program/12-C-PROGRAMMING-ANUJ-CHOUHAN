@@ -47,9 +47,25 @@ To understand input/output functions, decision-making statements, looping statem
 ### Program 13 - break statement
 - Source code - 'break.c'
 - Output Screenshot - 'break-output.png'
-### program 14 - continue statement
+### Program 14 - continue statement
 - Source code - 'continue.c'
 - Output Screenshot - 'continue-output.png'
+### Program 15 - Pattern Generation
+#### 1.Right-Angle Star Pattern
+- Source code - 'Pattern-Generation/right-angle-pattern.c'
+- Output Screenshot - 'Pattern-Generation/right angle pattern-output.png'
+#### 2.Inverted Star Pattern
+- Source code - 'Pattern-Generation/inverted-star-pattern.c'
+- Output Screenshot - 'Pattern-Generation/inverterd-star-pattern-output.png'
+#### 3.Pyramid Star Pattern
+- Source code - 'Pattern-Generation/pyramid-star-pattern.c'
+- Output Screenshot - Pattern-Generation/pyramid-star-pattern-output.png'
+#### 4.Number Pattern
+- Source code - 'Pattern-Generation/number-pattern.c'
+- Output Screenshot - 'Pattern-Generation/number-pattern-output.png'
+#### 5. Alphabet Pattern
+- Source code - 'Pattern-Generation/alphabet-pattern.c'
+- Output Screenshot - 'Pattern-Generation/alphabet-pattern-output.png'
 ## Practice Programs
 1. Largest of Three Numbers
 2. Even/odd checker
