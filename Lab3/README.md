@@ -107,10 +107,14 @@ This section contains Application based C Programming projects.
  - Source code - 'number-utility-toolkit.c'
  - Output Screenshot - 'number-utility-toolkit-output.png'
 ## Learning Outcomes
-- Learned formatted input and output functions.
-- Understood decison-making statements.
-- Learned the use of break and continue.
-- Developed problem-solving skills using C.
+After completing this lab, I have learned:
+### 1.How to use loops in C programming.
+### 2.How to use if-else and switch statements.
+### 3.How to apply nested loops to generate different patterns.
+### 4.How to solve mathematical problems using C programs.
+### 5.How to use functions and basic programming concepts.
+### 6.How to write, compile, run and debug C programs.
+### 7.How to upload source code and output screenshots on Github.
 ## Tools Used
 - Programming Language: C
 - Compiler: OnlineGDB
