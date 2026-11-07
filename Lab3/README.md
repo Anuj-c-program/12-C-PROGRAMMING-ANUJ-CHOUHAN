@@ -96,9 +96,16 @@ This section contains basic C programming practice programs with their source co
 - Source code - 'Practice-Programs/fibonacci-series.c'
 - Output Screenshot - 'Practice-Programs/fibonacci-series-output.png'
 ## Application Programs
-1. Menu-driven ATM Simulator
-2. Student Result Processing System
-3. Number Utility Toolkit
+This section contains Application based C Programming projects.
+### 1.Menu-driven ATM Simulator
+- Source code - 'Application-Programs/atm-simulator.c'
+- Output Screenshot - 'Appliction-Programs/atm-simulator-output.png'
+### 2.Student Result Processing System
+- Source code - 'Apllication-Programs/student-result.c'
+- Output Screenshot - 'Application-Programs/student-result-output.png'
+### 3.Number Utility Toolkit
+ - Source code - 'number-utility-toolkit.c'
+ - Output Screenshot - 'number-utility-toolkit-output.png'
 ## Learning Outcomes
 - Learned formatted input and output functions.
 - Understood decison-making statements.
