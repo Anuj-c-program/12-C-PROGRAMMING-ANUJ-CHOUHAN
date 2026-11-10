@@ -33,7 +33,7 @@ This lab covers functions, recursion, pointers, and their applications in C prog
 2. Recursive Problem Solver
 3. Menu-Driven Calculator Using Functions
 
-## Analysis
+## Analysis Programs
 
 1. Compare Recursion with Iteration
 2. Compare Call by Value and Call by Reference
