@@ -1,44 +1,47 @@
 
-# Lab 5 – Pointers and Dynamic Memory Allocation
+
+# Lab 5 – Functions and Pointers
 
 ## Introduction
 
-This lab covers pointers, pointer operations, and dynamic memory allocation in C programming through practical programs.
+This lab covers functions, recursion, pointers, and their applications in C programming.
 
 ## Basic Concepts
 
-- Introduction to Pointers
-- Declaration and Initialization of Pointers
-- Pointer Arithmetic
-- Pointers and Arrays
-- Pointers and Strings
-- Pointers and Functions
+- Function Declaration and Definition
+- Function Prototype
 - Call by Value and Call by Reference
-- Dynamic Memory Allocation
-- malloc(), calloc(), realloc() and free()
+- Recursive Functions
+- Passing Arrays to Functions
+- Introduction to Pointers
+- Pointer Arithmetic
+- Relationship Between Arrays and Pointers
 
 ## Practice Programs
 
-1. Swap Two Numbers Using Pointers
-2. Access Array Elements Using Pointers
-3. Find String Length Using Pointers
-4. Pointer Arithmetic
-5. Dynamic Memory Allocation Using malloc()
-6. Dynamic Memory Allocation Using calloc()
-7. Resize Memory Using realloc()
-8. Free Allocated Memory Using free()
+1. Factorial Using Function
+2. Prime Number Using Function
+3. Power Using Recursion
+4. GCD and LCM
+5. Swap Using Call by Reference
+6. Sum of Array Elements Using Functions
+7. Basic Pointer Operations
 
 ## Application Programs
 
-1. Student Record Management Using Pointers
-2. Dynamic Array Operations
-3. Memory Allocation Demonstration
+1. Mathematical Utility Library
+2. Recursive Problem Solver
+3. Menu-Driven Calculator Using Functions
+
+## Analysis
+
+1. Compare Recursion with Iteration
+2. Compare Call by Value and Call by Reference
 
 ## Learning Outcomes
 
-- Understood pointers and their applications.
-- Learned pointer arithmetic.
-- Used pointers with arrays and functions.
-- Understood dynamic memory allocation.
-- Improved programming and problem-solving skills.
-
+- Understood functions and their uses.
+- Learned recursion.
+- Understood pointers and pointer arithmetic.
+- Learned call by value and call by reference.
+- Improved programming skills.
