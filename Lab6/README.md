@@ -30,6 +30,6 @@
 - Understand structures and unions in C.
 - Learn structure declaration and initialization.
 - Understand arrays of structures and nested structures.
-- Learn how to pass structures to functions.
+- Learn passing structures to functions.
 - Understand memory allocation in structures and unions.
-- Develop record management programs using structures.
+- Develop record management applications using structures.
